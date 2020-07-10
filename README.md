@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Logo](https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif)
+
 
 <!--
 **lincolnvs/lincolnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
