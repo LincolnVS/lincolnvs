@@ -11,7 +11,7 @@ My name is Lincoln Vinicius Schreiber and I am a developer and researcher in **D
 
 
 ### Projects I helped at:
-- Co-develop the Blue Bird Words. A simple NLP app using Twitter API to show a wordcloud with hashtags! Co-worked with ([@vitorfraga](https://github.com/vitorfraga)).
+- [Blue Bird Words(https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a wordcloud with hashtags! Co-worked with [@vitorfraga](https://github.com/vitorfraga).
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
