@@ -6,7 +6,7 @@
 My name is Lincoln Vinicius Schreiber and I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
 
 - 🔭 I’m currently working on Python and Reinforcement Learning
-- 🌱 I’m currently learning **Web development** (Js, CSS and HTML) and a lot of **Artificial Intelligence** (focus on reinforcement learning)
+- 🌱 I’m currently learning Web development (Js, CSS and HTML) and a lot of Artificial Intelligence (focus on RL)
 - 🤔 I’m looking for help with everything i'm doing, feel free to help me or correct me!
 - 💬 Ask me about tech, games (mainly cs:go), computer and math
 - ✨ Fun fact: I love games, playing, testing, developing and everything about it
