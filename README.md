@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lincolnvs-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnvs/)](https://www.linkedin.com/in/lincolnvs/)
 [![Gmail Badge](https://img.shields.io/badge/-lincolnschreiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnschreiber@gmail.com)](mailto:lincolnschreiber@gmail.com)
+[https://img.shields.io/badge/-LincolnSchreiber-060542?style=flat-square&logo=%20&logoColor=white&link=http://lattes.cnpq.br/2067394701405776](http://lattes.cnpq.br/2067394701405776)
 
 ![GitHub Logo](https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif)
 
