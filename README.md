@@ -5,7 +5,7 @@
 
 ![GitHub Logo](https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif)
 
-My name is Lincoln Vinicius Schreiber, and I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
+My name is Lincoln Vinicius Schreiber, I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
 
 - 🔭 I'm currently working on Python and Reinforcement Learning
 - 🌱 I'm currently learning Web development (Js, CSS, and HTML) and a lot of Artificial Intelligence (focus on RL)
