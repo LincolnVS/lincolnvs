@@ -7,8 +7,6 @@ My name is Lincoln Vinicius Schreiber, and I am **Reinforcement Learning Researc
 
 - 🔭 I'm currently working on Python and Reinforcement Learning
 - 🌱 I'm currently learning Web development (Js, CSS, and HTML) and a lot of Artificial Intelligence (focus on RL)
-- 🤔 I'm looking for help with everything i'm doing. Feel free to help me or correct me!
-- 💬 Ask me about tech, games (mainly cs:go), computer and math
 - ✨ Fun fact: I love games, playing, testing, developing, and everything about it
 - ⚡ Languages: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
