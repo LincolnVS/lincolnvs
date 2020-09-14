@@ -20,4 +20,4 @@ My name is Lincoln Vinicius Schreiber, I am **Reinforcement Learning Researcher*
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
 
-> Prefer to give the world knowledge instead of hate!
+> Prefer to give the world knowledge rather than hate!
