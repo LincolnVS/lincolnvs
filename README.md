@@ -10,7 +10,7 @@ My name is Lincoln Vinicius Schreiber, I am **Reinforcement Learning Researcher*
 - 🔭 I'm currently working on Python and Reinforcement Learning
 - 🌱 I'm currently learning Web development (Js, CSS, and HTML) and a lot of Artificial Intelligence (focus on RL)
 - ✨ Fun fact: I love games, playing, testing, developing, and everything about it
-- ⚡ Languages: Python, C, C++, JavaScript, Dart, Flutter, Lua
+- ⚡ Technologies: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
 ### Projects I helped/help:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags! Co-developed with [@vitorfraga](https://github.com/vitorfraga).
