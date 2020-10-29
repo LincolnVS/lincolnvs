@@ -18,6 +18,8 @@ My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **M
 - Brazilian Portuguese translator for [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
 
 ### Research papers I worked at:
-- Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication link pending)
+- Co-author of "FastIoT: An Efficient and Very Fast Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (accepted - link pending)
+- Co-author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (publication pending)
+- Co-author of "Towards Explainable DQN for Traffic Signal Control" (abstract publication pending)
 
 > Prefer to give the world knowledge rather than hate!
