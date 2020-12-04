@@ -22,4 +22,4 @@ My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **M
 - Co-author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (publication pending)
 - Co-author of "Towards Explainable DQN for Traffic Signal Control" (abstract publication pending)
 
-> Prefer to give the world knowledge rather than hate!
+> Try not to show hate to others, but knowledge!
