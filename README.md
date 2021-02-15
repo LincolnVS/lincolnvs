@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lincolnschreiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnschreiber@gmail.com)](mailto:lincolnschreiber@gmail.com)
 
 
-![GitHub Logo](https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif)
+![GitHub Logo](https://media.tenor.com/images/1ec23367746735f9fba2134d750afe85/tenor.gif)
 
 My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
 
