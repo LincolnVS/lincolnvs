@@ -8,18 +8,18 @@
 My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
 
 - 🔭 I'm currently working on Python and Reinforcement Learning
-- 🌱 I'm currently learning Web development (Js, CSS, and HTML) and a lot of Artificial Intelligence (focus on RL)
+- 🌱 I'm currently learning Game development (Godot and GDScript) and a lot of Artificial Intelligence (focus on RL)
 - ✨ Fun fact: I love games, playing, testing, developing, and everything about it
 - ⚡ Technologies: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
 ### Projects I helped/help:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags! Co-developed with [@vitorfraga](https://github.com/vitorfraga).
 - Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
-- Brazilian Portuguese translator for [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
+- Brazilian Portuguese translator for [shapez.io](https://github.com/tobspr/shapez.io) and [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
 
 ### Research papers I worked at:
-- Co-author of "FastIoT: An Efficient and Very Fast Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (accepted - link pending)
-- Co-author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (publication pending)
-- Co-author of "Towards Explainable DQN for Traffic Signal Control" (abstract publication pending)
+- Co-author of "FastIoT: An Efficient and Very Fast Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (accepted - publication pending)
+- Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - publication pending)
+- Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" (submitted - publication pending)
 
-> Try not to show hate to others, but knowledge!
+> Try not to show hate to others!
