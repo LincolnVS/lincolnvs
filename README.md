@@ -4,7 +4,7 @@
 
 <a href="#"><img src="https://media.tenor.com/images/4924fa1431196312d969fec7f72da031/tenor.gif" alt="drawing" width="100"/></a>
 
-My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **Master's Degree Student** at Unisinos University in São Leopoldo, Brazil.
+My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and **master's degree student** at Unisinos university in São Leopoldo, Brazil.
 
 - 🔭 I'm currently working on Python and Reinforcement Learning
 - 🌱 I'm currently learning *Game Development* (Godot and GDScript) and a lot of *Artificial Intelligence* (focus on RL)
