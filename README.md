@@ -8,7 +8,7 @@ My name is Lincoln Schreiber, I am **Reinforcement Learning Researcher** and **M
 
 - 🔭 I'm currently working on Python and Reinforcement Learning
 - 🌱 I'm currently learning *Game Development* (Godot and GDScript) and a lot of *Artificial Intelligence* (focus on RL)
-- ✨ Fun fact: I love games, playing, testing, developing, and everything about it
+- ✨ Fun fact: I love games, whether playing, testing, developing, and everything about it. 
 - ⚡ Technologies: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
 ### Projects I helped/help:
