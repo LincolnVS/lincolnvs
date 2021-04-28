@@ -14,11 +14,11 @@ My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and *
 ### Projects I helped/help:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags! Co-developed with [@vitorfraga](https://github.com/vitorfraga).
 - Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
-- Brazilian Portuguese translator for [shapez.io](https://github.com/tobspr/shapez.io) and [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
+- One of the Brazilian Portuguese translators of [shapez.io](https://github.com/tobspr/shapez.io) and [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
 
 ### Research papers I worked at:
 - Co-author of "FastIoT: An Efficient and Very Fast Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (accepted - publication pending)
-- Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - publication pending)
-- Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" (submitted - publication pending)
+- Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - pending acceptance)
+- Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" (submitted - pending acceptance)
 
-> Try not to show hate to others!
+> Do not show hatred to others!
