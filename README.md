@@ -17,8 +17,9 @@ My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and *
 - One of the Brazilian Portuguese translators of [shapez.io](https://github.com/tobspr/shapez.io) and [Unciv - Civ V for Android (+Desktop)](https://github.com/yairm210/Unciv).
 
 ### Research papers I worked at:
+- Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" (accepted - publication pending)
 - Co-author of "FastIoT: An Efficient and Very Fast Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (accepted - publication pending)
+- Co-author of "Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing" (accepted - publication pending)
 - Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - pending acceptance)
-- Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" (submitted - pending acceptance)
 
 > Do not show hatred to others!
