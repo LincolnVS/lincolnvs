@@ -22,4 +22,4 @@ My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and *
 - Co-author of "Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing" (accepted - publication pending)
 - Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - pending acceptance)
 
-> Do not show hatred to others!
+> Be nice!
