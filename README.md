@@ -6,8 +6,8 @@
 
 My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and **master's degree student** at Unisinos university in São Leopoldo, Brazil.
 
-- 🔭 I'm currently working on Python and Reinforcement Learning
-- 🌱 I'm currently learning *Game Development* (Godot and GDScript) and a lot of *Artificial Intelligence* (focus on RL)
+- 🔭 I'm currently working with Python and Reinforcement Learning
+- 🌱 I'm currently learning *Game Development* (Godot and GDScript) and a lot of *Artificial Intelligence*
 - ✨ Fun fact: I love everything about games (play, test, dev, translate ...)
 - ⚡ Technologies: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
