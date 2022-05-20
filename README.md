@@ -18,8 +18,9 @@ My name is Lincoln Schreiber, I am a **reinforcement learning researcher** and *
 
 ### Research papers I worked at:
 - Main author of "Towards Explainable Deep Reinforcement Learning for Traffic Signal Control" In: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
+- Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" DOI: [10.1080/08839514.2022.2055392](https://doi.org/10.1080/08839514.2022.2055392)
 - Co-author of "FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments" @ IJGUC. DOI: [10.1504/IJGUC.2021.10041927](https://www.doi.org/10.1504/IJGUC.2021.10041927)
 - Co-author of "Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing" In: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
-- Main author of "Above-ground biomass wheat estimation: deep learning with UAV-based RGB images" (submitted - pending acceptance)
+
 
 > Be nice!
