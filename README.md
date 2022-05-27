@@ -13,7 +13,7 @@ I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing 
 
 ### Projects I helped/help:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags.
-- One of the Brazilian Portuguese translators:
+- One of the Brazilian Portuguese translators for:
   - [shapez.io](https://shapez.io/)
   - [Unciv - Civ V for Android (+Desktop)](https://yairm210.itch.io/unciv)
   - [Hugging Face Course 🤗](https://huggingface.co/course/pt/chapter1/1)
