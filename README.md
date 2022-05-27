@@ -9,7 +9,6 @@ I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing 
 - 🔭 I'm currently working with Python, Reinforcement learningr and NLP
 - 🌱 I'm currently learning *Game Development* (Godot and Unity) and a lot of Artificial Intelligence
 - ✨ Fun fact: I love everything about games (play, test, dev, translate)
-- ⚡ Technologies: Python, C, C++, JavaScript, Dart, Flutter, Lua
 
 ### Projects I helped/help:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags.
