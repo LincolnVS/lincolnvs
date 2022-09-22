@@ -10,19 +10,21 @@ I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing 
 - 🌱 I'm currently learning *Game Development* (Godot and Unity) and a lot of Artificial Intelligence
 - ✨ Fun fact: I love everything about games (play, test, dev, translate)
 
-### Projects I helped/help:
+### Projects:
 - [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags.
 - One of the Brazilian Portuguese translators for:
-  - [shapez.io](https://shapez.io/)
-  - [Unciv - Civ V for Android (+Desktop)](https://yairm210.itch.io/unciv)
-  - [Hugging Face Course 🤗](https://huggingface.co/course/pt/chapter1/1)
+  - [Hugging Face Course 🤗](https://huggingface.co/course/pt/chapter1/1) - [*github*](https://github.com/huggingface/course)
+  - [shapez.io](https://shapez.io/) - [*github*](https://github.com/tobspr/shapez.io)
+  - [Unciv - Civ V for Android (+Desktop)](https://yairm210.itch.io/unciv) - [*github*](https://github.com/yairm210/Unciv)
 
 ### Research papers I worked at:
-- Main author of "**On the Explainability and Expressiveness of Function Approximation Methods in RL-Based Traffic Signal Control**" at: [2022 International Joint Conference on Neural Networks (IJCNN)] WIP Link
-- Main author of "**Towards Explainable Deep Reinforcement Learning for Traffic Signal Control**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
-- Main author of "**Above-ground biomass wheat estimation: deep learning with UAV-based RGB images**" at Applied Artificial Intelligence [10.1080/08839514.2022.2055392](https://doi.org/10.1080/08839514.2022.2055392)
-- Co-author of "**FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments**" @ IJGUC. DOI: [10.1504/IJGUC.2021.10041927](https://www.doi.org/10.1504/IJGUC.2021.10041927)
-- Co-author of "**Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
+- "**On the Explainability and Expressiveness of Function Approximation Methods in RL-Based Traffic Signal Control**" at: 2022 International Joint Conference on Neural Networks (IJCNN) WIP Link
+- "**Towards Explainable Deep Reinforcement Learning for Traffic Signal Control**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
+- "**Above-ground biomass wheat estimation: deep learning with UAV-based RGB images**" at Applied Artificial Intelligence 2022. [DOI: 10.1080/08839514.2022.2055392](https://doi.org/10.1080/08839514.2022.2055392)
+- "**Biomass estimation of spring wheat with machine learning methods using UAV-based multispectral imaging**" at International Journal of Remote Sensing 2022. [DOI: 10.1080/01431161.2022.2107882](https://doi.org/10.1080/01431161.2022.2107882)
+- "**A machine learning pipeline for extracting decision-support features from traffic scenes**" @ CEUR ATT 2022 (Vienna, Austria). [ISSN 1613-0073](http://ceur-ws.org/Vol-3173/13.pdf)
+- "**FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments**" @ IJGUC 2021. [DOI: 10.1504/IJGUC.2021.10041927](https://www.doi.org/10.1504/IJGUC.2021.10041927)
+- "**Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
 - Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
 
 
