@@ -6,7 +6,7 @@
 
 I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing focused on Machine Learning.
 
-- 🔭 I'm currently working with Python, Reinforcement learningr and NLP
+- 🔭 I'm currently working with Python, Reinforcement learning and NLP
 - 🌱 I'm currently learning *Game Development* (Godot and Unity) and a lot of Artificial Intelligence
 - ✨ Fun fact: I love everything about games (play, test, dev, translate)
 
@@ -17,15 +17,21 @@ I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing 
   - [shapez.io](https://shapez.io/) - [*github*](https://github.com/tobspr/shapez.io)
   - [Unciv - Civ V for Android (+Desktop)](https://yairm210.itch.io/unciv) - [*github*](https://github.com/yairm210/Unciv)
 
-### Research papers I worked at:
-- "**On the Explainability and Expressiveness of Function Approximation Methods in RL-Based Traffic Signal Control**" at: 2022 International Joint Conference on Neural Networks (IJCNN) WIP Link
-- "**Towards Explainable Deep Reinforcement Learning for Traffic Signal Control**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
-- "**Above-ground biomass wheat estimation: deep learning with UAV-based RGB images**" at Applied Artificial Intelligence 2022. [DOI: 10.1080/08839514.2022.2055392](https://doi.org/10.1080/08839514.2022.2055392)
-- "**Biomass estimation of spring wheat with machine learning methods using UAV-based multispectral imaging**" at International Journal of Remote Sensing 2022. [DOI: 10.1080/01431161.2022.2107882](https://doi.org/10.1080/01431161.2022.2107882)
-- "**A machine learning pipeline for extracting decision-support features from traffic scenes**" @ CEUR ATT 2022 (Vienna, Austria). [ISSN 1613-0073](http://ceur-ws.org/Vol-3173/13.pdf)
-- "**FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments**" @ IJGUC 2021. [DOI: 10.1504/IJGUC.2021.10041927](https://www.doi.org/10.1504/IJGUC.2021.10041927)
-- "**Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
-- Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
+### Research papers I worked:
+#### Reinforcement Learning and Explainable Artificial Intelligence
+- "**On the Explainability and Expressiveness of Function Approximation Methods in RL-Based Traffic Signal Control**" at [International Joint Conference on Neural Networks (IJCNN) 2022 - Padua, Italy.](https://doi.org/10.1109/IJCNN55064.2022.9892422)
+- "**Towards Explainable Deep Reinforcement Learning for Traffic Signal Control**" at [LatinX in AI Workshop @ ICML 2021.](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
 
+#### Computer Vision
+- "**A machine learning pipeline for extracting decision-support features from traffic scenes**" at [CEUR ATT 2022 - Vienna, Austria.](http://ceur-ws.org/Vol-3173/13.pdf)
+- "**Above-ground biomass wheat estimation: deep learning with UAV-based RGB images**" at [Applied Artificial Intelligence 2022.](https://doi.org/10.1080/08839514.2022.2055392)
+- "**Biomass estimation of spring wheat with machine learning methods using UAV-based multispectral imaging**" at [International Journal of Remote Sensing 2022.](https://doi.org/10.1080/01431161.2022.2107882)
+
+#### AI in general and Big Data
+- "**Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
+- "**FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments**" at [IJGUC 2021.](https://www.doi.org/10.1504/IJGUC.2021.10041927)
+
+#### Others
+- Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
 
 > Be nice!
