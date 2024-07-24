@@ -4,21 +4,21 @@
 
 <a href="#"><img src="https://media.tenor.com/images/4924fa1431196312d969fec7f72da031/tenor.gif" alt="drawing" width="100"/></a>
 
-I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing focused on Machine Learning.
+I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing, specializing in Machine Learning.
 
-- 🔭 I'm currently working with Python, Reinforcement learning and NLP
-- 🌱 I'm currently learning *Game Development* (Godot and Unity) and a lot of Artificial Intelligence
-- ✨ Fun fact: I love everything about games (play, test, dev, translate)
+- 🔭 Currently working with Python, Computer Vision, NLP (LLMs), and Data Engineering/Backend Python.
+- 🌱 Learning *Game Development* (Godot and Unity) and diving deep into Artificial Intelligence.
+- ✨ Fun fact: I love everything about games – playing, testing, developing, and translating.
 
 ### Projects:
-- [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). A simple NLP app using Twitter API to show a Wordcloud with hashtags.
-- One of the Brazilian Portuguese translators for:
+- [Blue Bird Words](https://github.com/lincolnvs/blue-bird-words). An NLP app using the Twitter API to generate a Wordcloud with hashtags.
+- Brazilian Portuguese Translator for:
   - [Hugging Face Course 🤗](https://huggingface.co/course/pt/chapter1/1) - [*github*](https://github.com/huggingface/course)
   - [shapez.io](https://shapez.io/) - [*github*](https://github.com/tobspr/shapez.io)
   - [Unciv - Civ V for Android (+Desktop)](https://yairm210.itch.io/unciv) - [*github*](https://github.com/yairm210/Unciv)
 
-### Research papers I worked:
-#### Reinforcement Learning and Explainable Artificial Intelligence
+### Research Papers:
+#### Reinforcement Learning and Explainable AI
 - "**On the Explainability and Expressiveness of Function Approximation Methods in RL-Based Traffic Signal Control**" at [International Joint Conference on Neural Networks (IJCNN) 2022 - Padua, Italy.](https://doi.org/10.1109/IJCNN55064.2022.9892422)
 - "**Towards Explainable Deep Reinforcement Learning for Traffic Signal Control**" at [LatinX in AI Workshop @ ICML 2021.](https://research.latinxinai.org/papers/icml/2021/pdf/paper_26.pdf)
 
@@ -27,11 +27,11 @@ I'm Lincoln Schreiber, a computer engineer with a Master's in Applied Computing 
 - "**Above-ground biomass wheat estimation: deep learning with UAV-based RGB images**" at [Applied Artificial Intelligence 2022.](https://doi.org/10.1080/08839514.2022.2055392)
 - "**Biomass estimation of spring wheat with machine learning methods using UAV-based multispectral imaging**" at [International Journal of Remote Sensing 2022.](https://doi.org/10.1080/01431161.2022.2107882)
 
-#### AI in general and Big Data
+#### AI and Big Data
 - "**Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing**" at: [LatinX in AI Workshop @ ICML 2021](https://research.latinxinai.org/papers/icml/2021/pdf/paper_27.pdf)
 - "**FastIoT: an efficient and very fast compression model for displaying a huge volume of IoT data in web environments**" at [IJGUC 2021.](https://www.doi.org/10.1504/IJGUC.2021.10041927)
 
 #### Others
-- Co-create a chemistry learning object (in java), with seven publications and seven registered patents.
+- Co-creator of a chemistry learning object (in Java), with seven publications and seven registered patents.
 
 > Be nice!
